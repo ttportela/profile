@@ -1,0 +1,9 @@
+{
+  "host": "ftp.com.br",
+  "port": 21,
+  "username": "username",
+  "password": "password",
+  "secure_ftps": true,
+  "passive_mode": true,
+  "timeout_sec": 30
+}
